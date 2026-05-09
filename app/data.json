@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "แก้วน้ำเก็บอุณหภูมิ Sanrio น่ารัก ขนาดใหญ่ 600ML/900ML แก้วน้ำเย็น-ร้อน DIY พร้อมหูหิ้ว",
+    "category": "ไอเทมเด็กหอสายมินิมอล",
+    "affiliateUrl": "https://s.shopee.co.th/5flRhuHtkh", 
+    "imageUrl": "/images/sanrio-cup.png",
+    "price_range": "199-289 THB"
+  },
+    {
+        "id": 2,
+        "name": "(1หิ้ว 5ห่อ) กระดาษทิชชู่ น้องหมีลายน่ารัก 1ห่อ/168แผ่น",
+        "category": "ไอเทมเด็กหอสายมินิมอล",
+        "affiliateUrl": "https://s.shopee.co.th/LjvMjAlFj", 
+        "imageUrl": "/images/bear-tissue.png",
+        "price_range": "56 THB"
+    },
+    {
+        "id": 3,
+        "name": "พัดลมพกพา GOOJODOQ Gfs007 Mini 4000Mah Type C พร้อมจอแสดงผล พัดลมไอเย็น 100 ระดับ",
+        "category": "ไอเทมล้ำๆ อัปเกรดชีวิต",
+        "affiliateUrl": "https://s.shopee.co.th/LjvMjAlFj", 
+        "imageUrl": "/images/mini-fan.png",
+        "price_range": "250-314 THB"
+    }
+]
